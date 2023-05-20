@@ -1,0 +1,9 @@
+* cl-sparql
+
+SPARQL query builder for Common Lisp
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/mmontone/cl-sparql.git |
+| commit  | 79806e8                                       |
+| systems | cl-sparql                                     |
+|---------+-----------------------------------------------|
